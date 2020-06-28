@@ -14,6 +14,7 @@
 		AFA9393624A7808500CD67DD /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AFA9393524A7808500CD67DD /* Preview Assets.xcassets */; };
 		AFA9394424A7808500CD67DD /* learnUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFA9394324A7808500CD67DD /* learnUITests.swift */; };
 		AFA9394F24A781BA00CD67DD /* StartView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFA9394E24A781BA00CD67DD /* StartView.swift */; };
+		AFA9395124A8EDDA00CD67DD /* SetUpView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFA9395024A8EDDA00CD67DD /* SetUpView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,6 +39,7 @@
 		AFA9394324A7808500CD67DD /* learnUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = learnUITests.swift; sourceTree = "<group>"; };
 		AFA9394524A7808500CD67DD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		AFA9394E24A781BA00CD67DD /* StartView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StartView.swift; sourceTree = "<group>"; };
+		AFA9395024A8EDDA00CD67DD /* SetUpView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SetUpView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +85,7 @@
 				AFA9392E24A7808400CD67DD /* SceneDelegate.swift */,
 				AFA9393224A7808500CD67DD /* Assets.xcassets */,
 				AFA9394E24A781BA00CD67DD /* StartView.swift */,
+				AFA9395024A8EDDA00CD67DD /* SetUpView.swift */,
 				AFA9393024A7808400CD67DD /* ContentView.swift */,
 				AFA9393A24A7808500CD67DD /* Info.plist */,
 				AFA9393424A7808500CD67DD /* Preview Content */,
@@ -211,6 +214,7 @@
 				AFA9392F24A7808400CD67DD /* SceneDelegate.swift in Sources */,
 				AFA9393124A7808400CD67DD /* ContentView.swift in Sources */,
 				AFA9394F24A781BA00CD67DD /* StartView.swift in Sources */,
+				AFA9395124A8EDDA00CD67DD /* SetUpView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
